@@ -30,3 +30,4 @@ C:\Users\mathe\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\refint\FilmesAP
 C:\Users\mathe\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.pdb
 C:\Users\mathe\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\mathe\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\ref\FilmesAPI.dll
+C:\Users\mathe\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.sourcelink.json
