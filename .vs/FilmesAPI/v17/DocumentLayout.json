@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\mathe\\source\\repos\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\mathe\\source\\repos\\filmesapi\\filmesapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\mathe\\source\\repos\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\mathe\\source\\repos\\filmesapi\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB88718-3C4A-4249-9412-FF3885222526}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:13:15.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T19:00:36.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FilmesAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:59:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "RelativeToolTip": "FilmesAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:42:26.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
