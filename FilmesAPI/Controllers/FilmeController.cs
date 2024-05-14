@@ -10,10 +10,12 @@ public class FilmeController : ControllerBase
 {
 
     private static List<Filme> filmes = new List<Filme>();
+    private static int id = 0;
 
     [HttpPost] // Sempre que fizermos uma operação do tipo post para esse controlador com prefixo Filme, iremos adicionar esse filme que recebemos por parâmetro.
     public void AdicionaFilme([FromBody] Filme filme)
     {
+        filme.id = id++;
         filmes.Add(filme); // Lista de filmes
         Console.WriteLine(filme.Titulo);
         Console.WriteLine(filme.Duracao);
@@ -23,5 +25,11 @@ public class FilmeController : ControllerBase
     public IEnumerable<Filme> RecuperaFilmes()
     {
         return filmes;
+    }
+
+    [HttpGet("{id}")]
+    public Filme? RetornaFilmePorId(int id)
+    {
+        return filmes.FirstOrDefault(filme => filme.id == id);
     }
 }
