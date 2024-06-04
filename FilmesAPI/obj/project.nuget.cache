@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pz9tfOB7HH7rF0A/tzeshSfdfXw8IpFffbBbLBvRP3AmcycKuYamWbZfECgLcDRk8bH3tmMb3UJ9k0bczs0Ktw==",
+  "dgSpecHash": "1jfLmNdFMyOgNKcqHETUFaJMADxFs9B3xeTLucaEvzQVnauXABFH3lj8+Jloii9qgbwsOGG/ogEjL43zsHuPvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "projectFilePath": "D:\\Usuários\\Matheus\\Documentos\\GIT PROJECTS\\CursoAPI\\API_REST_Filmes\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

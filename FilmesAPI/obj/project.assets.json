@@ -2727,11 +2727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectUniqueName": "D:\\Usuários\\Matheus\\Documentos\\GIT PROJECTS\\CursoAPI\\API_REST_Filmes\\FilmesAPI\\FilmesAPI.csproj",
       "projectName": "FilmesAPI",
-      "projectPath": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectPath": "D:\\Usuários\\Matheus\\Documentos\\GIT PROJECTS\\CursoAPI\\API_REST_Filmes\\FilmesAPI\\FilmesAPI.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\source\\repos\\FilmesAPI\\FilmesAPI\\obj\\",
+      "outputPath": "D:\\Usuários\\Matheus\\Documentos\\GIT PROJECTS\\CursoAPI\\API_REST_Filmes\\FilmesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
