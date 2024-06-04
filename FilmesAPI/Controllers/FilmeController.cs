@@ -1,4 +1,6 @@
-﻿using FilmesAPI.Data;
+﻿using AutoMapper;
+using FilmesAPI.Data;
+using FilmesAPI.Data.Dtos;
 using FilmesAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing.Constraints;
@@ -12,16 +14,19 @@ public class FilmeController : ControllerBase
 {
     
     private FilmeContext _context;
+    private IMapper _mapper;
 
-    public FilmeController(FilmeContext context)
+    public FilmeController(FilmeContext context, IMapper mapper)
     {
         _context = context;
+        _mapper = mapper;
     }
 
     [HttpPost] // Sempre que fizermos uma operação do tipo post para esse controlador com prefixo Filme, iremos adicionar esse filme que recebemos por parâmetro.
     public IActionResult AdicionaFilme(
-        [FromBody] Filme filme)
+        [FromBody] CreateFilmeDto filmeDto)
     {
+        Filme filme = _mapper.Map<Filme>(filmeDto);
         _context.Filmes.Add(filme);
         _context.SaveChanges();
         return CreatedAtAction(nameof(RecuperaFilmePorId),
