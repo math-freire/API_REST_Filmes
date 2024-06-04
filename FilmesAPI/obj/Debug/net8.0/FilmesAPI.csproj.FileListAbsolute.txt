@@ -136,3 +136,5 @@ D:\Usuários\Matheus\Documentos\GIT PROJECTS\CursoAPI\API_REST_Filmes\FilmesAPI\
 D:\Usuários\Matheus\Documentos\GIT PROJECTS\CursoAPI\API_REST_Filmes\FilmesAPI\obj\Debug\net8.0\FilmesAPI.pdb
 D:\Usuários\Matheus\Documentos\GIT PROJECTS\CursoAPI\API_REST_Filmes\FilmesAPI\obj\Debug\net8.0\FilmesAPI.genruntimeconfig.cache
 D:\Usuários\Matheus\Documentos\GIT PROJECTS\CursoAPI\API_REST_Filmes\FilmesAPI\obj\Debug\net8.0\ref\FilmesAPI.dll
+D:\Usuários\Matheus\Documentos\GIT PROJECTS\CursoAPI\API_REST_Filmes\FilmesAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Usuários\Matheus\Documentos\GIT PROJECTS\CursoAPI\API_REST_Filmes\FilmesAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
